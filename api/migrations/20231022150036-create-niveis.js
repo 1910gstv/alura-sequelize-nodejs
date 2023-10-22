@@ -9,7 +9,7 @@ module.exports = {
         primaryKey: true,
         type: Sequelize.INTEGER
       },
-      desc - nivel: {
+      desc_nivel: {
         type: Sequelize.STRING
       },
       createdAt: {
